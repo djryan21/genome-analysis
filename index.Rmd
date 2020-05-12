@@ -3,6 +3,20 @@ title: "index"
 author: "Daniel Ryan"
 date: "2/26/2020"
 output: html_document
+bibliography: data/bibliography.bib
 ---
 This is my new website!
-* [Lab5](lab5_danryan.html)
+[Lab3](lab3_DanRyan.html)
+[Lab4](lab4_DanRyan.html)
+[Lab5](lab5_danryan.html)
+[Lab9](lab9.html)
+[Lab10](lab10.html)
+https://djryan.shinyapps.io/11-1COVID-19/
+https://djryan.shinyapps.io/11-2COVID-19/
+https://djryan.shinyapps.io/11-3COVID-19/
+https://djryan.shinyapps.io/11-4COVID-19/
+https://djryan.shinyapps.io/12-1COVID-19/
+
+Index setup with assistance from [@Blanchard2020]
+
+# REFERENCE
